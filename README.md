@@ -11,6 +11,165 @@
 ---
 [![](https://komarev.com/ghpvc/?username=kmohammedabrar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-# 💫 About Me:
-# 👋 Hi, I'm K Mohammed Abrar<br><br>💻 **Aspiring Software Developer | BCA Student | AI Enthusiast | Technical Support**<br><br>📍 Ballari, Karnataka, India  <br>📧 **Email:** kabrar5278@gmail.com  <br>📱 **Phone:** +91 9448107140  <br>🔗 **LinkedIn:** https://www.linkedin.com/in/kmohammedabrar/<br><br>---<br><br># 💫 About Me<br><br>🎓 Pursuing Bachelor of Computer Applications (BCA) with a strong academic record.<br><br>💡 Passionate about Software Development, Artificial Intelligence, Web Technologies, and Technical Support.<br><br>🚀 Quick learner with strong problem-solving, communication, and teamwork skills.<br><br>🔭 Currently working on<br>- Full Stack Web Development<br>- PHP & MySQL Projects<br>- Java Programming<br>- AI & Python Applications<br><br>🌱 Currently Learning<br>- Java Full Stack Development<br>- Artificial Intelligence<br>- REST APIs<br>- Database Design<br>- Linux Administration<br><br>👯 Looking to collaborate on<br>- Open Source Projects<br>- Web Development<br>- Java Projects<br>- AI Projects<br><br>💬 Ask me about<br>- HTML, CSS & JavaScript<br>- PHP & MySQL<br>- Python<br>- Java<br>- Linux<br>- CCTV Installation & Configuration<br>- Technical Support<br><br>⚡ Fun Fact<br><br>Started my career in **Automobile Engineering**, later switched to **Computer Applications**, and now building software solutions.<br><br>---<br><br># 💻 Technical Skills<br><br>### Programming Languages<br>- HTML5<br>- CSS3<br>- JavaScript<br>- Python<br>- Java<br>- PHP<br>- SQL<br><br>### Web Technologies<br>- HTML<br>- CSS<br>- JavaScript<br>- PHP<br>- Bootstrap<br><br>### Database<br>- MySQL<br><br>### Operating Systems<br>- Linux<br>- Windows<br><br>### Software & Tools<br>- MS Office<br>- Git & GitHub<br>- Visual Studio Code<br><br>### Technical Support<br>- CCTV Installation<br>- DVR/NVR Configuration<br>- Hardware Troubleshooting<br>- Technical Support<br>- Computer Networking Basics<br><br>---<br><br># 📚 Education<br><br>### 🎓 Bachelor of Computer Applications (BCA)<br>**SSA First Grade Autonomous College**<br>*Aug 2023 – Jun 2026*<br><br>📈 Aggregate (Up to 5th Semester): **82%**<br><br>---<br><br>### 🎓 Diploma in Automobile Engineering<br>**Government Polytechnic Ballari**<br><br>*Jun 2019 – Oct 2022*<br><br>📈 Percentage: **79%**<br><br>---<br><br>### 🎓 SSLC<br>**Mohammadia English Medium High School**<br><br>📈 Percentage: **70%**<br><br>---<br><br># 💼 Internship<br><br>## Diploma Engineer Trainee<br>**Toyota Industries Engine India Pvt. Ltd.**<br><br>*Nov 2022 – Apr 2023*<br><br>### Responsibilities<br><br>- Worked on automotive manufacturing processes.<br>- Assisted in quality inspection and production.<br>- Learned lean manufacturing concepts.<br>- Followed industrial safety standards.<br>- Collaborated with engineers on production activities.<br><br>---<br><br># 🚀 Projects<br><br>## 🏫 BCA Department Portal<br><br>**Technologies Used**<br><br>- HTML<br>- CSS<br>- JavaScript<br>- PHP<br>- MySQL<br><br>### Features<br><br>- Student Management<br>- Faculty Information<br>- Department Notices<br>- Visitor Tracking<br>- Notes Download<br>- Secure Admin Dashboard<br><br>---<br><br># 📜 Certifications<br><br>- 🏆 Infosys Springboard – Artificial Intelligence Certificate<br>- 🏆 Infosys Springboard – Technical Support Certificate<br><br>---<br><br># 🌍 Languages<br><br>- English<br>- Hindi<br>- Kannada<br><br>---<br><br># 💡 Soft Skills<br><br>- Communication<br>- Team Collaboration<br>- Problem Solving<br>- Time Management<br>- Leadership<br>- Adaptability<br>- Quick Learning<br><br>---
+# <h2 align="center">K Mohammed Abrar</h2>
+
+<p align="center">
+<b>Software Developer</b> • <b>Artificial Intelligence Enthusiast</b> • <b>Technical Support Specialist</b>
+</p>
+
+<p align="center">
+<a href="mailto:kabrar5278@gmail.com">📧 Email</a> •
+<a href="https://www.linkedin.com/in/kmohammedabrar/">LinkedIn</a> •
+📍 Ballari, Karnataka, India
+</p>
+
+---
+
+## About
+
+Computer Applications graduate with a strong foundation in software development, artificial intelligence, web technologies, and technical support. Passionate about building practical applications, solving real-world problems, and continuously expanding technical expertise. Recognized for adaptability, analytical thinking, and a commitment to delivering high-quality solutions.
+
+---
+
+## Current Focus
+
+* Artificial Intelligence
+* Java Development
+* Python Programming
+* REST API Development
+* Database Management
+* Linux Administration
+
+---
+
+## Technical Skills
+
+### Programming Languages
+
+* Java
+* Python
+* PHP
+* JavaScript
+* HTML5
+* CSS3
+* SQL
+
+### Web Development
+
+* HTML
+* CSS
+* JavaScript
+* PHP
+* Bootstrap
+
+### Databases
+
+* MySQL
+
+### Operating Systems
+
+* Linux
+* Windows
+
+### Development Tools
+
+* Git
+* GitHub
+* Visual Studio Code
+* MS Office
+
+### Technical Support
+
+* CCTV Installation
+* DVR/NVR Configuration
+* Hardware Troubleshooting
+* Computer Networking
+* System Maintenance
+
+---
+
+## Projects
+
+### Department Management Portal
+
+**Technologies**
+
+HTML • CSS • JavaScript • PHP • MySQL
+
+**Key Features**
+
+* Student Management
+* Faculty Directory
+* Department Notices
+* Visitor Tracking
+* Notes Repository
+* Secure Administrative Dashboard
+
+---
+
+## Professional Experience
+
+### Diploma Engineer Trainee
+
+**Toyota Industries Engine India Pvt. Ltd.**
+
+**Nov 2022 – Apr 2023**
+
+* Assisted in automotive manufacturing operations.
+* Worked on production quality assurance.
+* Applied lean manufacturing principles.
+* Followed industrial safety standards.
+* Collaborated with engineering teams.
+
+---
+
+## Education
+
+### Bachelor of Computer Applications (BCA)
+
+**SSA First Grade Autonomous College**
+
+**2023 – 2026**
+
+**CGPA / Aggregate:** 82%
+
+---
+
+### Diploma in Automobile Engineering
+
+**Government Polytechnic Ballari**
+
+**2019 – 2022**
+
+**Percentage:** 79%
+
+---
+
+## Certifications
+
+* Infosys Springboard – Artificial Intelligence
+* Infosys Springboard – Technical Support
+
+---
+
+## Core Competencies
+
+* Problem Solving
+* Analytical Thinking
+* Communication
+* Team Collaboration
+* Time Management
+* Adaptability
+* Continuous Learning
+
+---
+
+## Languages
+
+* English
+* Hindi
+* Kannada
+
+---
+
+> *"Technology is best when it empowers people through simple and effective solutions."*
