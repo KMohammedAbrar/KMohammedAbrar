@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+# 👋 Hi, I'm K Mohammed Abrar<br><br>💻 **Aspiring Software Developer | BCA Student | AI Enthusiast | Technical Support**<br><br>📍 Ballari, Karnataka, India  <br>📧 **Email:** kabrar5278@gmail.com  <br>📱 **Phone:** +91 9448107140  <br>🔗 **LinkedIn:** https://www.linkedin.com/in/kmohammedabrar/<br><br>---<br><br># 💫 About Me<br><br>🎓 Pursuing Bachelor of Computer Applications (BCA) with a strong academic record.<br><br>💡 Passionate about Software Development, Artificial Intelligence, Web Technologies, and Technical Support.<br><br>🚀 Quick learner with strong problem-solving, communication, and teamwork skills.<br><br>🔭 Currently working on<br>- Full Stack Web Development<br>- PHP & MySQL Projects<br>- Java Programming<br>- AI & Python Applications<br><br>🌱 Currently Learning<br>- Java Full Stack Development<br>- Artificial Intelligence<br>- REST APIs<br>- Database Design<br>- Linux Administration<br><br>👯 Looking to collaborate on<br>- Open Source Projects<br>- Web Development<br>- Java Projects<br>- AI Projects<br><br>💬 Ask me about<br>- HTML, CSS & JavaScript<br>- PHP & MySQL<br>- Python<br>- Java<br>- Linux<br>- CCTV Installation & Configuration<br>- Technical Support<br><br>⚡ Fun Fact<br><br>Started my career in **Automobile Engineering**, later switched to **Computer Applications**, and now building software solutions.<br><br>---<br><br># 💻 Technical Skills<br><br>### Programming Languages<br>- HTML5<br>- CSS3<br>- JavaScript<br>- Python<br>- Java<br>- PHP<br>- SQL<br><br>### Web Technologies<br>- HTML<br>- CSS<br>- JavaScript<br>- PHP<br>- Bootstrap<br><br>### Database<br>- MySQL<br><br>### Operating Systems<br>- Linux<br>- Windows<br><br>### Software & Tools<br>- MS Office<br>- Git & GitHub<br>- Visual Studio Code<br><br>### Technical Support<br>- CCTV Installation<br>- DVR/NVR Configuration<br>- Hardware Troubleshooting<br>- Technical Support<br>- Computer Networking Basics<br><br>---<br><br># 📚 Education<br><br>### 🎓 Bachelor of Computer Applications (BCA)<br>**SSA First Grade Autonomous College**<br>*Aug 2023 – Jun 2026*<br><br>📈 Aggregate (Up to 5th Semester): **82%**<br><br>---<br><br>### 🎓 Diploma in Automobile Engineering<br>**Government Polytechnic Ballari**<br><br>*Jun 2019 – Oct 2022*<br><br>📈 Percentage: **79%**<br><br>---<br><br>### 🎓 SSLC<br>**Mohammadia English Medium High School**<br><br>📈 Percentage: **70%**<br><br>---<br><br># 💼 Internship<br><br>## Diploma Engineer Trainee<br>**Toyota Industries Engine India Pvt. Ltd.**<br><br>*Nov 2022 – Apr 2023*<br><br>### Responsibilities<br><br>- Worked on automotive manufacturing processes.<br>- Assisted in quality inspection and production.<br>- Learned lean manufacturing concepts.<br>- Followed industrial safety standards.<br>- Collaborated with engineers on production activities.<br><br>---<br><br># 🚀 Projects<br><br>## 🏫 BCA Department Portal<br><br>**Technologies Used**<br><br>- HTML<br>- CSS<br>- JavaScript<br>- PHP<br>- MySQL<br><br>### Features<br><br>- Student Management<br>- Faculty Information<br>- Department Notices<br>- Visitor Tracking<br>- Notes Download<br>- Secure Admin Dashboard<br><br>---<br><br># 📜 Certifications<br><br>- 🏆 Infosys Springboard – Artificial Intelligence Certificate<br>- 🏆 Infosys Springboard – Technical Support Certificate<br><br>---<br><br># 🌍 Languages<br><br>- English<br>- Hindi<br>- Kannada<br><br>---<br><br># 💡 Soft Skills<br><br>- Communication<br>- Team Collaboration<br>- Problem Solving<br>- Time Management<br>- Leadership<br>- Adaptability<br>- Quick Learning<br><br>---
 
-<!--
-**KMohammedAbrar/KMohammedAbrar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kmohammedabrar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kabrar5278@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=kmohammedabrar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=kmohammedabrar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=kmohammedabrar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=kmohammedabrar&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
