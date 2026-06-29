@@ -9,37 +9,26 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=kmohammedabrar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kmohammedabrar)
- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kabrar5278@gmail.com) 
 
 # <h2 align="center">K Mohammed Abrar</h2>
 
-<p align="center">
-<b>Software Developer</b> • <b>Artificial Intelligence Enthusiast</b> • <b>Technical Support Specialist</b>
-</p>
-
-<p align="center">
-<a href="mailto:kabrar5278@gmail.com">📧 Email</a> •
-<a href="https://www.linkedin.com/in/kmohammedabrar/">LinkedIn</a> •
-📍 Ballari, Karnataka, India
-</p>
 
 ---
 
 ## About
 
-Computer Applications graduate with a strong foundation in software development, artificial intelligence, web technologies, and technical support. Passionate about building practical applications, solving real-world problems, and continuously expanding technical expertise. Recognized for adaptability, analytical thinking, and a commitment to delivering high-quality solutions.
+Motivated and detailed -oriented graduate with strong communication, problem-solving, and team work skills. Posses basic programming and computer application knowledge with the ability to learn new technologies quickly.and commited to continuous professional growth.
 
 ---
 
 ## Current Focus
 
 * Artificial Intelligence
-* Java Development
 * Python Programming
-* REST API Development
 * Database Management
 * Linux Administration
+* Web Development
+* Technical Support
 
 ---
 
@@ -55,29 +44,13 @@ Computer Applications graduate with a strong foundation in software development,
 * CSS3
 * SQL
 
-### Web Development
 
-* HTML
-* CSS
-* JavaScript
-* PHP
-* Bootstrap
-
-### Databases
-
-* MySQL
 
 ### Operating Systems
 
 * Linux
 * Windows
 
-### Development Tools
-
-* Git
-* GitHub
-* Visual Studio Code
-* MS Office
 
 ### Technical Support
 
@@ -86,6 +59,7 @@ Computer Applications graduate with a strong foundation in software development,
 * Hardware Troubleshooting
 * Computer Networking
 * System Maintenance
+* IT Support
 
 ---
 
@@ -127,29 +101,19 @@ HTML • CSS • JavaScript • PHP • MySQL
 ## Education
 
 ### Bachelor of Computer Applications (BCA)
-
-**SSA First Grade Autonomous College**
-
 **2023 – 2026**
 
-**CGPA / Aggregate:** 82%
 
 ---
 
 ### Diploma in Automobile Engineering
-
-**Government Polytechnic Ballari**
-
 **2019 – 2022**
-
-**Percentage:** 79%
 
 ---
 
 ## Certifications
 
 * Infosys Springboard – Artificial Intelligence
-* Infosys Springboard – Technical Support
 
 ---
 
@@ -173,4 +137,4 @@ HTML • CSS • JavaScript • PHP • MySQL
 
 ---
 
-> *"Technology is best when it empowers people through simple and effective solutions."*
+
