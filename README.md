@@ -25,7 +25,6 @@ Motivated and detailed -oriented graduate with strong communication, problem-sol
 
 * Artificial Intelligence
 * Python Programming
-* Database Management
 * Linux Administration
 * Web Development
 * Technical Support
@@ -54,7 +53,7 @@ Motivated and detailed -oriented graduate with strong communication, problem-sol
 
 ### Technical Support
 
-* CCTV Installation
+
 * DVR/NVR Configuration
 * Hardware Troubleshooting
 * Computer Networking
@@ -129,12 +128,6 @@ HTML • CSS • JavaScript • PHP • MySQL
 
 ---
 
-## Languages
 
-* English
-* Hindi
-* Kannada
-
----
 
 
